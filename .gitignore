@@ -1,0 +1,6 @@
+key.txt
+.vscode/
+
+# created by virtualenv automatically
+venv/**
+.idea/**
